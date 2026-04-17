@@ -1,0 +1,62 @@
+{
+  "1": {
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "reviews": {},
+    "isbn": "978-0385474542"
+  },
+  "2": {
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
+    "reviews": {},
+    "isbn": "978-0143039815"
+  },
+  "3": {
+    "author": "Dante Alighieri",
+    "title": "The Divine Comedy",
+    "reviews": {},
+    "isbn": "978-0142437223"
+  },
+  "4": {
+    "author": "Unknown",
+    "title": "The Epic of Gilgamesh",
+    "reviews": {},
+    "isbn": "978-0140449198"
+  },
+  "5": {
+    "author": "Unknown",
+    "title": "One Thousand and One Nights",
+    "reviews": {},
+    "isbn": "978-0199555239"
+  },
+  "6": {
+    "author": "Unknown",
+    "title": "Njál's Saga",
+    "reviews": {},
+    "isbn": "978-0141439815"
+  },
+  "7": {
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "reviews": {},
+    "isbn": "978-0141439518"
+  },
+  "8": {
+    "author": "Honoré de Balzac",
+    "title": "Le Père Goriot",
+    "reviews": {},
+    "isbn": "978-0140449174"
+  },
+  "9": {
+    "author": "Samuel Beckett",
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "reviews": {},
+    "isbn": "978-0140181296"
+  },
+  "10": {
+    "author": "Giovanni Boccaccio",
+    "title": "The Decameron",
+    "reviews": {},
+    "isbn": "978-0142437339"
+  }
+}
